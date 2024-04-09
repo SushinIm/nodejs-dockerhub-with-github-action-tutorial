@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: SushinIm/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: imreceive/nodejs-github-action:${{ env.CURRENT_TIME }}
